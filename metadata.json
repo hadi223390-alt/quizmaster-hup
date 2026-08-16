@@ -1,0 +1,6 @@
+{
+  "name": "QuizMaster Hub",
+  "description": "Student study app to understand lessons, generate summaries, key points, and interactive quizzes with Arabic and English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
